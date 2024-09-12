@@ -4,3 +4,5 @@ if "keto"=="keto":
 
 if "avtandil"=="avtandil":
     print("yeap")
+if "avtandil"=="keto":
+    print('nope')
